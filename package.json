@@ -1,7 +1,7 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.0.0",
+    "name": "kiork-Launcher",
+    "preductname": "kiork Launcher",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
